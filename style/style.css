@@ -159,7 +159,7 @@ body{
 	letter-spacing: -0.562737px;
 	color: #696871;
 }
-.item:hover .item__text, .itme:hover .item__title, .item:hover .item__li{
+.item:hover .item__text, .item:hover .item__title, .item:hover .item__li{
 	color: #fff;
 	transition: 500ms;
 }
